@@ -1,0 +1,3 @@
+[submodule "owacs-ender/themes/blist"]
+	path = owacs-ender/themes/blist
+	url = https://github.com/apvarun/blist-hugo-theme.git
